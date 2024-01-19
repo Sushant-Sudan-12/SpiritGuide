@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spirit
+  - Follower
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - SpiritLayer
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGroundLayer
+    uniqueID: 1406140319
+    locked: 0
+  - name: SpiritLayer
+    uniqueID: 2915502635
+    locked: 0
+  - name: FollowerLayer
+    uniqueID: 3415628977
+    locked: 0
